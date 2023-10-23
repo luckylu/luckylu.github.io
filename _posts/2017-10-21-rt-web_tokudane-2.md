@@ -1,0 +1,23 @@
+---
+id: 5783
+title: スタジオに生出演してくれた新垣結衣さんと瑛太さん主演の映画「ミックス。」は今日公開中です♪
+date: '2017-10-21T19:00:12+08:00'
+author: GakkyBot
+layout: post
+guid: 'http://www.gakky.me/5783.html'
+permalink: /5783.html
+Views:
+    - '35'
+image: /wp-content/uploads/2017/10/921692125531594752_0.jpg
+categories:
+    - twitter
+tags:
+    - twitter
+    - 新垣结衣
+---
+
+[![921692125531594752_0](http://www.yui-aragaki.org/wp-content/uploads/2017/10/921692125531594752_0.jpg)](http://www.yui-aragaki.org/wp-content/uploads/2017/10/921692125531594752_0.jpg)  
+スタジオに生出演してくれた新垣結衣さんと瑛太さん主演の映画「ミックス。」は今日公開中です♪  
+前向きな気持ちになれる作品でしたよー!(^^)!  
+\#とくダネ！#中の人レッド https://t.co/DjNQXJq4Ci  
+Source: <https://twitter.com/i/web/status/921692125531594752>

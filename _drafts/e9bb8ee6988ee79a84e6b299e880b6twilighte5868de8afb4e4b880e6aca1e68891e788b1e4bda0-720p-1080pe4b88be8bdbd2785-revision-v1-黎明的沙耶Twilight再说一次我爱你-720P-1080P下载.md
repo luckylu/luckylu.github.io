@@ -1,0 +1,34 @@
+---
+id: 2788
+title: '黎明的沙耶/Twilight/再说一次我爱你 720P 1080P下载'
+date: '2015-05-24T10:34:15+08:00'
+author: Michael
+layout: revision
+guid: 'http://www.gakky.me/2788.html'
+permalink: '/?p=2788'
+---
+
+[![p2207631871](http://www.yui-aragaki.org/wp-content/uploads/2015/05/p2207631871.jpg)](http://www.yui-aragaki.org/wp-content/uploads/2015/05/p2207631871.jpg)
+
+<span class="pl">导演</span>:<span class="Apple-converted-space"> </span><span class="attrs">[深川栄洋](http://movie.douban.com/search/%E6%B7%B1%E5%B7%9D%E6%A0%84%E6%B4%8B)</span>  
+<span class="pl">编剧</span>:<span class="Apple-converted-space"> </span><span class="attrs">[山室有紀子](http://movie.douban.com/search/%E5%B1%B1%E5%AE%A4%E6%9C%89%E7%B4%80%E5%AD%90)<span class="Apple-converted-space"> </span>/<span class="Apple-converted-space"> </span>[深川栄洋](http://movie.douban.com/search/%E6%B7%B1%E5%B7%9D%E6%A0%84%E6%B4%8B)<span class="Apple-converted-space"> </span>/<span class="Apple-converted-space"> </span>[加納朋子(原作)](http://movie.douban.com/search/%E5%8A%A0%E7%B4%8D%E6%9C%8B%E5%AD%90%28%E5%8E%9F%E4%BD%9C%29)</span>  
+<span class="actor"><span class="pl">主演</span>:<span class="Apple-converted-space"> </span><span class="attrs">[新垣结衣](http://movie.douban.com/celebrity/1018562/)<span class="Apple-converted-space"> </span>/<span class="Apple-converted-space"> </span>[大泉洋](http://movie.douban.com/celebrity/1184188/)<span class="Apple-converted-space"> </span>/<span class="Apple-converted-space"> </span>[中村苍](http://movie.douban.com/celebrity/1313341/)<span class="Apple-converted-space"> </span>/<span class="Apple-converted-space"> </span>[福岛莉拉](http://movie.douban.com/celebrity/1326320/)<span class="Apple-converted-space"> </span>/<span class="Apple-converted-space"> </span>[鹤野刚士](http://movie.douban.com/celebrity/1314713/)<span class="Apple-converted-space"> </span>/<span class="Apple-converted-space"> </span><a class="more-actor" title="更多主演">更多…</a></span></span>  
+<span class="pl">类型:</span><span class="Apple-converted-space"> </span>爱情  
+<span class="pl">官方网站:</span><span class="Apple-converted-space"> </span>[wwws.warnerbros.co.jp/twilight-sasara/](http://wwws.warnerbros.co.jp/twilight-sasara/)  
+<span class="pl">制片国家/地区:</span><span class="Apple-converted-space"> </span>日本  
+<span class="pl">语言:</span><span class="Apple-converted-space"> </span>日语  
+<span class="pl">上映日期:</span><span class="Apple-converted-space"> </span>2014-11-08(日本)  
+<span class="pl">片长:</span><span class="Apple-converted-space"> </span>114分钟  
+<span class="pl">又名:</span><span class="Apple-converted-space"> </span>再一次说爱你(台) / 雅露的黎明 / 奇迹小镇 / Twilight Sasara Saya  
+<span class="pl">IMDb链接:</span><span class="Apple-converted-space"> </span>[tt3684490](http://www.imdb.com/title/tt3684490)
+
+## 黎明的沙耶的剧情简介 · · · · · ·
+
+<div class="indent" id="link-report"> 毫无名气的落语家优太郎（大泉洋 饰），其人生最大的幸福就是认识了美丽善良的妻子沙耶（新垣结衣 饰）。虽然生活贫苦，不过伴随着儿子优介呱呱落地，他们俨然正朝着幸福的彼岸航行。怎奈命运无常，优太郎在一场车祸中死去。由于对妻儿太过牵挂，他并没有往生，而是以幽灵的状态盘桓在沙耶身边。葬礼上与优太郎绝交许久的父亲（石桥凌 饰）突然出现，而优太郎情急之中竟然附体在师父的身上，并且劝告沙耶尽快逃跑。慌不择路的沙耶带着孩子来到了一个名叫佐佐良的偏僻小镇。在这里她遇到了各种各样性格满满的人，优太郎也一次又一次附体在他人身上回到妻儿身边。母女的未来将会如何？<span class="Apple-converted-space"> </span>  
+本片根据加纳朋子的小说《佐佐良沙耶》改编。<span class="Apple-converted-space"> </span><span class="pl">[©豆瓣](http://movie.douban.com/help/movie#t0-qs)</span></div><div class="indent"></div>## 下载：
+
+864X480：<http://pan.baidu.com/s/1dD72bO9>
+
+720P（内嵌字幕）： <http://pan.baidu.com/s/1c074dTQ>
+
+1080P（内嵌字幕）： <http://pan.baidu.com/s/1c0B7PUK>

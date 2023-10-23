@@ -1,0 +1,27 @@
+url: "http://www.yui-aragaki.org"
+title: 新垣结衣分享博客
+tagline: "记录衣衣的点点滴滴-an unoffical Yui-Aragaki’s fans site"
+sass:
+  sass_dir: _sass
+navigation:
+  - text: Home
+    url: /
+  - text: About
+    url: /about/
+  - text: 影视作品年表
+    url: /films/
+  - text: 写真集年表
+    url: /photos/
+  - text: 音乐专辑年表
+    url: /albums/
+paginate: 5
+paginate_path: "/blog/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+permalink: pretty
+markdown: kramdown
+kramdown:
+  auto_ids: false
