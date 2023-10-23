@@ -1,6 +1,6 @@
 ---
 id: 2873
-title: 捐助(donate)
+title: 捐助记录
 date: '2015-08-02T07:17:18+08:00'
 author: Michael
 layout: page
