@@ -1,14 +1,14 @@
 ---
-layout: null
+layout: none
 ---
 [
   {% for post in site.posts %}
     {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date | date: '%B %-d, %Y'}}"
+      "title":"{{ post.title | escape | replace: '#', '' | replace: '【', '' | replace: '】', '' | decodeHTMLEntities }}",
+      "category":"{{ post.category | escape | replace: '#', ''| replace: '【', '' | replace: '】', ''  | decodeHTMLEntities }}",
+      "tags":"{{ post.tags | join: ',' | replace: '#', '' | replace: '【', '' | replace: '】', '' | escape | decodeHTMLEntities }}",
+      "url":"{{ site.baseurl }}{{ post.url }}",
+      "date":"{{ post.date }}"
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]

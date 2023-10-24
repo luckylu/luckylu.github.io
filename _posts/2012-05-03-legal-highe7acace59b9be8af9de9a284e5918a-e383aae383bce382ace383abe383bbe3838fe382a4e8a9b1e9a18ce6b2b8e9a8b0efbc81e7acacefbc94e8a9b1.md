@@ -1,6 +1,6 @@
 ---
 id: 484
-title: '<p>legal high第四话预告 リーガル・ハイ話題沸騰！第４話スペシャル&#8230;</p>'
+title: '<p>legal high第四话预告 リーガル・ハイ話題沸騰！第４話スペシャル</p>'
 date: '2012-05-03T07:59:59+08:00'
 author: Michael
 layout: post

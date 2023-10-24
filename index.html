@@ -3,10 +3,61 @@ layout: default
 ---
 <main class="content fade-in-down delay-0_75s">
     <div class="inner">
+        <h3 style="color:white">本站已上线：<span id="day"></span></h3>
         <p>hello，博客搬迁到GitHub Pages了，你可以通过以下链接索引本站的所有文章：</p>
         <p><a href="{{ site.url }}/tags" target="_blank">{{ site.url }}/tags</a></p>
         <p>如果你觉得本站还不错，请帮助站长一直维持本站哦！目前的花销仅有每年的域名续费这一项</p>
         <img src="{{ site.url }}/images/donate.JPG" alt="love" width="300"
             height="300" />
+
     </div><!-- .inner -->
 </main><!-- .content -->
+<script>
+//     function getUptimeDays() {
+//   // 网站上线日期,年-月-日格式
+//   const siteLaunchDate = '2012-07-01';
+
+//   // 获取当前日期
+//   const now = new Date();
+
+//   // 将上线日期和当前日期转换为时间戳
+//   const siteLaunchTimestamp = new Date(siteLaunchDate).getTime();
+//   const nowTimestamp = now.getTime();
+
+//   // 计算两日期间的毫秒差
+//   const elapsed = nowTimestamp - siteLaunchTimestamp;
+
+//   // 1天 = 1000 * 60 * 60 * 24 毫秒
+//   // 计算已运行天数(向下取整)
+//   const uptimeDays = Math.floor(elapsed / (1000 * 60 * 60 * 24));
+
+//   return uptimeDays;
+// }
+
+// // 调用函数
+// const days = getUptimeDays();
+
+// const element = document.getElementById('day');
+// element.innerHTML = '<strong>'+days+'</strong>';
+
+function calculateUptime() {
+  var startDate = new Date('2012-7-1'); // 替换为你网站上线的日期，格式为 'yyyy-mm-dd'
+  var currentDate = new Date();
+
+  var timeDiff = Math.abs(currentDate.getTime() - startDate.getTime());
+
+  var totalSeconds = Math.floor(timeDiff / 1000);
+  var years = Math.floor(totalSeconds / (365 * 24 * 60 * 60));
+  var days = Math.floor((totalSeconds % (365 * 24 * 60 * 60)) / (24 * 60 * 60));
+  var hours = Math.floor((totalSeconds % (24 * 60 * 60)) / (60 * 60));
+  var minutes = Math.floor((totalSeconds % (60 * 60)) / 60);
+  var seconds = totalSeconds % 60;
+
+  const element = document.getElementById('day');
+  element.innerHTML = '<strong>'+ years + '年 ' + days + '天 ' + hours + '小时 ' + minutes + '分钟 ' + seconds + '秒'+'</strong>';
+
+  setTimeout(calculateUptime, 1000); // 每秒更新一次
+}
+
+calculateUptime();
+</script>

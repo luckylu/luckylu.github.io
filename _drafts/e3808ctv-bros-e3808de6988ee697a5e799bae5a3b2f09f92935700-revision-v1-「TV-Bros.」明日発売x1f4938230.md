@@ -1,6 +1,6 @@
 ---
 id: 5720
-title: '「TV Bros.」明日発売&#x1f493;&#8230;'
+title: '「TV Bros.」明日発売&#x1f493;'
 date: '2017-10-18T09:31:00+08:00'
 author: Michael
 layout: revision
@@ -12,10 +12,10 @@ permalink: '/?p=5720'
 
 「TV Bros.」明日発売💓
 
-\#ミックス。  
-\#10月21日公開  
-\#新垣結衣  
-\#瑛太  
-\#TVBros.  
-\#そんな君へスマッシュ！ https://t.co/iZewcm7qSB  
+\#ミックス。
+\#10月21日公開
+\#新垣結衣
+\#瑛太
+\#TVBros.
+\#そんな君へスマッシュ！ https://t.co/iZewcm7qSB
 Source: <https://twitter.com/i/web/status/920235944837447680>
